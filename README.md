@@ -9,9 +9,14 @@
 
 <br>
 <br>
-
+<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="320" />
 - I’m @rajbaghelrahul
+<br>
 - 👀 I’m interested in learning new things
+<br>
 - 🌱 I’m currently learning Web Development
+<br>
 - 💞️ I’m looking to collaborate on on new project
+<br>
 - 📫 How to reach me rajbaghelrahul@gmail.com
+<br>
