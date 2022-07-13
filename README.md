@@ -9,7 +9,6 @@
 
 <br>
 <br>
-<img align="right" alt="GIF" src="https://www.excelsisdeo.com/images/AlphaTestersAnimation_60.gif" width="500" height="320" />
 - I’m @rajbaghelrahul
 <br>
 - 👀 I’m interested in learning new things
@@ -20,3 +19,4 @@
 <br>
 - 📫 How to reach me rajbaghelrahul@gmail.com
 <br>
+<img align="right" alt="GIF" src="https://www.excelsisdeo.com/images/AlphaTestersAnimation_60.gif" width="500" height="320" />
