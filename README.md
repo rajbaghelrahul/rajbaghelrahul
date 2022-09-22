@@ -15,7 +15,7 @@
 <br>
 - 🌱 I’m currently learning Web Development
 <br>
-- 💞️ I’m looking to collaborate on on new project
+- 💞️ I’m looking to collaborate on new project
 <br>
 - 📫 How to reach me rajbaghelrahul@gmail.com
 <br>
