@@ -5,6 +5,7 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
   <br>
    ## 👨🏻‍💻 About Me:
+   ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <img  src="https://www.excelsisdeo.com/images/AlphaTestersAnimation_60.gif" height="300px"  align="right" />
 
@@ -27,7 +28,7 @@
 
 
 
-
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
 <p align="center">
@@ -59,7 +60,8 @@
 
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats</h2>
-<br/>
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rajbaghelrahul&show_icons=true&theme=dark" />
@@ -71,7 +73,9 @@
 <p align="center" ><img width="80%" src="https://github-profile-trophy.vercel.app/?username=rajbaghelrahul&theme=dark" alt=""/> </p>
 <p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajbaghelrahul&theme=vue" alt="summarycard"/> </p>
 <p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajbaghelrahul&theme=dark" alt=""/></p>
-<hr />
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <h3 align="center">
  Show some ❤️ by staring some of the repositories!
 </h3>
