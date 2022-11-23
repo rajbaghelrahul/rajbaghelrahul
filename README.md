@@ -3,13 +3,14 @@
    
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
   <br>
-   ## 👨🏻‍💻 About Me:
-   ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
 <div align="center">
 <h3> Enthusiastic web developer with ability to learn and collaborate in rapidly changing environments. Learning JavaScript, ReactJS and Data Structures & Algorithms. Passionate to apply Coding skills to develop quality solutions.
 </h3>
 </div>
+
+   ## 👨🏻‍💻 About Me:
+   ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 
 <img  src="https://www.excelsisdeo.com/images/AlphaTestersAnimation_60.gif" height="300px"  align="right" />
 
