@@ -4,7 +4,7 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
   <br>
 <div align="center">
-<h3> Enthusiastic web developer with ability to learn and collaborate in rapidly changing environments. Learning JavaScript, ReactJS and Data Structures & Algorithms. Passionate to apply Coding skills to develop quality solutions.
+<h3> I'm enthusiastic web developer with ability to learn and collaborate in rapidly changing environments. Learning JavaScript, ReactJS and Data Structures & Algorithms. Passionate to apply Coding skills to develop quality solutions.
 </h3>
 </div>
 
