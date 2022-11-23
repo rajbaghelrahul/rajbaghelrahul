@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there! I'm Raj Baghel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
    
@@ -7,8 +6,10 @@
    ## 👨🏻‍💻 About Me:
    ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-
-#### Enthusiastic web developer with ability to learn and collaborate in rapidly changing environments. Learning JavaScript, ReactJS and Data Structures & Algorithms. Passionate to apply Coding skills to develop quality solutions.
+<div align="center">
+<h3> Enthusiastic web developer with ability to learn and collaborate in rapidly changing environments. Learning JavaScript, ReactJS and Data Structures & Algorithms. Passionate to apply Coding skills to develop quality solutions.
+</h3>
+</div>
 
 <img  src="https://www.excelsisdeo.com/images/AlphaTestersAnimation_60.gif" height="300px"  align="right" />
 
@@ -20,16 +21,13 @@
 
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned
 
 - 💓 I love designing websites and coding.
 
 - 📫 How to reach me **rajbaghelrahul@gmail.com**
 
 <br>
-
-
-
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -40,7 +38,6 @@
   </a>
 </p>
 
-
 <!-- <img src="" alt="" /> -->
 <h2 align="center"><i>Tools | Use <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="100" /></i></h2>
 <p align="center">
@@ -48,8 +45,6 @@
     <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
   </a>
 </p>
-
-
 
 <h2 align="center"><i>Let's Connect ...<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
@@ -59,8 +54,6 @@
   <a href="https://rajbaghelrahul.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="Portfolio" /></a>    
   <a href="https://wa.me/+919528335341" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
 </p>
-
-
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats</h2>
 
@@ -81,8 +74,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajbaghelrahul&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark" /><br><br>
   <!-- in line 78 after dark in last put "&custom_title=नमस्ते 🙏 Programmers! &layout=compact" for making custom_title -->
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajbaghelrahul&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajbaghelrahul&theme=dracula" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajbaghelrahul&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajbaghelrahul&theme=dracula" />
+
 </div>
 
  <br />
@@ -103,6 +97,5 @@
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/rajbaghelrahul/count.svg" />
 </h3>
-
 
 <img height="100%" width="100%" alt="Bottom" src="./bottom_header.svg"/>
