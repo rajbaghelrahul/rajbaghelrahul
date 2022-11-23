@@ -7,6 +7,9 @@
    ## 👨🏻‍💻 About Me:
    ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
+
+#### Enthusiastic web developer with ability to learn and collaborate in rapidly changing environments. Learning JavaScript, ReactJS and Data Structures & Algorithms. Passionate to apply Coding skills to develop quality solutions.
+
 <img  src="https://www.excelsisdeo.com/images/AlphaTestersAnimation_60.gif" height="300px"  align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://rajbaghelrahul.netlify.app/)**
