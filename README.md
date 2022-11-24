@@ -14,7 +14,7 @@
 
 <img  src="https://www.excelsisdeo.com/images/AlphaTestersAnimation_60.gif" height="300px"  align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://rajbaghelrahul.netlify.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://raj-baghel-portfolio.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
