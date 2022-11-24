@@ -52,7 +52,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rajbaghelrahul/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="rajbaghelrahul@gmail.com" href="mailto:rajbaghelrahul@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="https://rajbaghelrahul.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="Portfolio" /></a>    
+  <a href="https://raj-baghel-portfolio.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="Portfolio" /></a>    
   <a href="https://wa.me/+919528335341" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
 </p>
 
