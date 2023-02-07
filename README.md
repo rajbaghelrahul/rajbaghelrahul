@@ -64,29 +64,36 @@
 <div align="center">
       <img width="35%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajbaghelrahul&theme=dracula" alt="">
       <img width="35%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajbaghelrahul&theme=dracula"><br>
-      <p align="center"><img width="55%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajbaghelrahul&theme=radical&utcOffset=5"> </p>
+      <!-- <p align="center"><img width="55%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajbaghelrahul&theme=radical&utcOffset=5"> </p> -->
 </div><br><br>
-  <!-- </a> -->
+<div align="center">
+      <img width="35%" src= "https://github-readme-stats.vercel.app/api?username=rajbaghelrahul&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark" alt="">
+      <img width="35%" src= "https://github-readme-streak-stats.herokuapp.com/?user=rajbaghelrahul&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact"><br>
+      <!-- <p align="center"><img width="55%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajbaghelrahul&theme=radical&utcOffset=5"> </p> -->
+</div><br><br>
+  </a>
 
 <div align="center">
   
   <!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rajbaghelrahul&show_icons=true&theme=dark" /> -->
-  <p align="center"><img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbaghelrahul&layout=compact&theme=dark" /><p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajbaghelrahul&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark" /><br><br>
+  <p align="center"><img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbaghelrahul&layout=compact&theme=dark" /></p>
+  
+  <!-- <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=rajbaghelrahul&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark" /> -->
   <!-- in line 78 after dark in last put "&custom_title=नमस्ते 🙏 Programmers! &layout=compact" for making custom_title -->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajbaghelrahul&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajbaghelrahul&theme=dracula" />
+<!-- <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajbaghelrahul&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /> -->
+
+<!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajbaghelrahul&theme=dracula" /> -->
 
 </div>
 
  <br />
-<p align="center" ><img width="80%" src="https://github-profile-trophy.vercel.app/?username=rajbaghelrahul&theme=dark" alt=""/> </p>
+<!-- <p align="center" ><img width="80%" src="https://github-profile-trophy.vercel.app/?username=rajbaghelrahul&theme=dark" alt=""/> </p>
 <br />
 <p align="center" ><img width="80%" src="https://activity-graph.herokuapp.com/graph?username=rajbaghelrahul&theme=react-dark" alt="activitygraph&theme=dark" /> </p>
 
-<!-- <p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajbaghelrahul&theme=vue" alt="summarycard"/> </p> -->
-<!-- <p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajbaghelrahul&theme=dark" alt=""/></p> -->
+<p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajbaghelrahul&theme=vue" alt="summarycard"/> </p>
+<p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajbaghelrahul&theme=dark" alt=""/></p> -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
